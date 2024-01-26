@@ -1,4 +1,6 @@
 __pycache__
+data/*
+!data/README.md
 .coverage
 .mypy_cache
 .pytest_cache
