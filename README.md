@@ -1,3 +1,5 @@
+# Project for research using Python
+
 ```
 Project Organization
 ------------
@@ -25,3 +27,19 @@ Project Organization
         ├── model
         └── visualization
 ```
+
+## Linter
+
+
+
+## type
+
+### 動的チェック
+
+- [beartype](https://beartype.readthedocs.io/en/latest/)
+- [Pydantic](https://docs.pydantic.dev/latest/)
+
+### 静的チェック
+
+- [Mypy](https://mypy-lang.org/)
+

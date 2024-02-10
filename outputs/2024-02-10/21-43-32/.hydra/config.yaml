@@ -1,0 +1,9 @@
+model:
+  name: bert
+  input_max_length: 32
+train:
+  lr: 1.0e-05
+  epochs: 10
+  batch_size: 16
+data_dir: data/processed/
+output_dir: results/bert/

@@ -27,9 +27,11 @@ mdformat-gfm = "^0.3.5"
 mdformat-frontmatter = "^2.0.1"
 mdformat_footnote = "^0.1.1"
 pytest-cov = "^4.0.0"
+loguru = "^0.7.2"
 
 [tool.poetry.group.type.dependencies]
 pydantic = "^2.5.3"
+beartype = "^0.17.1"
 
 [build-system]
 requires = ["poetry-core"]
